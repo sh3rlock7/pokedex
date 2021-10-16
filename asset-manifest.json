@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/pokedex/static/css/main.0b56c3f5.chunk.css",
+    "main.css": "/pokedex/static/css/main.28734db9.chunk.css",
     "main.js": "/pokedex/static/js/main.11a715ae.chunk.js",
     "main.js.map": "/pokedex/static/js/main.11a715ae.chunk.js.map",
     "runtime-main.js": "/pokedex/static/js/runtime-main.250ecb8e.js",
@@ -10,7 +10,7 @@
     "static/js/2.0f9a9947.chunk.js.map": "/pokedex/static/js/2.0f9a9947.chunk.js.map",
     "index.html": "/pokedex/index.html",
     "static/css/2.a1596f27.chunk.css.map": "/pokedex/static/css/2.a1596f27.chunk.css.map",
-    "static/css/main.0b56c3f5.chunk.css.map": "/pokedex/static/css/main.0b56c3f5.chunk.css.map",
+    "static/css/main.28734db9.chunk.css.map": "/pokedex/static/css/main.28734db9.chunk.css.map",
     "static/js/2.0f9a9947.chunk.js.LICENSE.txt": "/pokedex/static/js/2.0f9a9947.chunk.js.LICENSE.txt",
     "static/media/styles.scss": "/pokedex/static/media/volcan.38deff5a.jpg",
     "static/media/Logo.b7e348e6.png": "/pokedex/static/media/Logo.b7e348e6.png"
@@ -19,7 +19,7 @@
     "static/js/runtime-main.250ecb8e.js",
     "static/css/2.a1596f27.chunk.css",
     "static/js/2.0f9a9947.chunk.js",
-    "static/css/main.0b56c3f5.chunk.css",
+    "static/css/main.28734db9.chunk.css",
     "static/js/main.11a715ae.chunk.js"
   ]
 }
